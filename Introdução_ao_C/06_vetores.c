@@ -1,4 +1,7 @@
 #include <stdio.h>
+// O vetor é uma lista com uma sequencia de variáveis, imagine-a como uma lista corrida de apenas uma linha sendo um elemento de uma única dimensão
+
+// Exemplificando um vetor e suas posições => [][][][][][][][][][][][][]
 
 // No C para declarar variáveis do tipo vetor você precisa passar para seu programa o tipo e a quantidade de posições que esse vetor/array vai ter, por exemplo, eu quero um vetor do tipo inteiro com quatro posições:
 
